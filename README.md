@@ -1,1 +1,1 @@
-ini tugas lab mbc 
+tugas lab mbc 
